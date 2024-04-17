@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CatList</string>
+
+    <string name="cat1">Maine Coon</string>
+    <string name="cat2">Siamese</string>
+    <string name="cat3">Persian</string>
+    <string name="cat4">Ragdoll</string>
+    <string name="cat5">Bengal</string>
+    <string name="cat6">Scottish Fold</string>
+    <string name="cat7">Sphynx</string>
+    <string name="cat8">British Shorthair</string>
+    <string name="cat9">Abyssinian</string>
+    <string name="cat10">Norwegian Forest Cat</string>
+
+</resources>
